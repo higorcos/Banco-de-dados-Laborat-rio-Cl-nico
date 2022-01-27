@@ -1,3 +1,5 @@
+/* Algumas pesquisas no banco de dados não funcionam */
+
 USE Clinica;
 
 -- Pesquisar exames 
