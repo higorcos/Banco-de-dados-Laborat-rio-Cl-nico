@@ -24,3 +24,5 @@ referentes a um exame, como, por exemplo, a taxa de glicemia de um cliente.
 
 Os instrumentos de trabalho necessários para a realização de um exame são
 previamente catalogados para cada exame e podendo assim ser estipulado.
+
+
