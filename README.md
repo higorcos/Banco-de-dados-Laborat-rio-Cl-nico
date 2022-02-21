@@ -1,4 +1,4 @@
-Projeto Final da disciplina de Banco de dados 
+##Projeto Final da disciplina de Banco de dados 
 
 Laboratório Clínico
 
@@ -26,3 +26,6 @@ Os instrumentos de trabalho necessários para a realização de um exame são
 previamente catalogados para cada exame e podendo assim ser estipulado.
 
 
+## Colaboradores
+https://github.com/TSisaque  
+https://github.com/Rohnaay
